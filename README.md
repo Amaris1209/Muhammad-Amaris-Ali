@@ -1,4 +1,5 @@
-### Hi there 👋
+![laptop](https://user-images.githubusercontent.com/100198381/232048342-3307edac-3436-4e02-a1f0-3061a8837f33.gif)
+
 
 Here are some ideas to get you started:
 
@@ -8,5 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with MetaVerse
 - 💬 Ask me about anything related to programming
 - 😄 Pronouns: Ali
-
-![hi](https://user-images.githubusercontent.com/100198381/232047929-41b9b0ec-cbbc-4e65-9bcf-d2b034ca7588.gif)
